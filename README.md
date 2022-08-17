@@ -1,1 +1,35 @@
-# sawal52.github.io
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>  VISIT NEPAL </title>
+	<link rel="stylesheet" type="text/css" href="mainpage.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+
+</head>
+<header>
+	<nav>
+		<div class="main"><h1 class="animate__animated animate__heartBeat animate__infinite"> &emsp; VISIT NEPAL </h1> </div>
+		<div class="menu">
+			<a href="mainpage.html">HOME</a>
+			<a href="gallery.html">GALLERY</a>
+			<a href="https://nepal.gov.np/">ABOUT</a>
+			<a href="register.html">FEEDBACK</a>
+	</div>
+</nav>
+	<div class="content">
+		
+		<span> Heaven is myth, <br>Nepal is real</span>
+		
+	</div>
+	<br> <br><br> <br>
+	<div class="content2">
+		<p> Visit the beautiful country Nepal for lifetime experiences. <br>
+		Nepali people are eager to host you. </p>
+
+		<br>
+			<a href="https:\\ntb.gov.np" class="button">Learn More</a>
+<body>
+</body>
+</html>
